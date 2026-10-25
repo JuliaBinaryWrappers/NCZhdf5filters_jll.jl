@@ -1,0 +1,595 @@
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "050f28d22863ee51e745147418dbccba7cdca592"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d28fc2422ea9777585b74db5cef8f22215ce2bd6b43002c172b1f3e151fcce35"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "050f28d22863ee51e745147418dbccba7cdca592"
+mpi = "mpich"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d28fc2422ea9777585b74db5cef8f22215ce2bd6b43002c172b1f3e151fcce35"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "050f28d22863ee51e745147418dbccba7cdca592"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d28fc2422ea9777585b74db5cef8f22215ce2bd6b43002c172b1f3e151fcce35"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "050f28d22863ee51e745147418dbccba7cdca592"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d28fc2422ea9777585b74db5cef8f22215ce2bd6b43002c172b1f3e151fcce35"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "70497d8742ba402dc96a5e02a8922a22fc520037"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "30e6e0c3491f563afed8d5b9c8645abf30514eb94476406eac38996f376eeea8"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "8512d06ec81896b408edbe55f0e5471f91abd3ed"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "aec71edf0ad146b569d503a60fefb9c019414d3cb95dd5e9d52b9a4aed7fa6f4"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "94eddabe315c15efb82bd030a44b5804ed0fded2"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "268e0570aa3938c85fe57230c7163951441002a7f8a72cc624274f09f335ad94"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "3ce9cff1a6b48d3ccae5795959edd3f3a45c948a"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "275fff93dcf30c151758c31ac7f447d7b9f7464661c6fce29adaba59bc0ec042"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "cbf38e8ea169fe4cc418d8d7b43e8c7581afa1de"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "14991099b193d6a6d4b68f5b8468c209524050ca3464949e4954a19860654414"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "b95839717c69b63e932e30b24438a0138a429f68"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d57ff2dc1bae8e3a1ce675fa1b966c7b081bbaaa113fd1724c9fd634cec990d5"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "dc940d40a3a731327b0ea0d617e4caa27aa40891"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "6bcb8b86d3269eb590ee006c2f0e673be55b37603346aaacd37787424d51acbc"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "07625453c4bb02bfdd35f30cbe330330b183734d"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "44ceef896729b7a12555ae752973cc8535e6aac805fafcd7c2a4245a45e907df"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "07625453c4bb02bfdd35f30cbe330330b183734d"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "44ceef896729b7a12555ae752973cc8535e6aac805fafcd7c2a4245a45e907df"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "07625453c4bb02bfdd35f30cbe330330b183734d"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "44ceef896729b7a12555ae752973cc8535e6aac805fafcd7c2a4245a45e907df"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "aarch64"
+git-tree-sha1 = "07625453c4bb02bfdd35f30cbe330330b183734d"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "44ceef896729b7a12555ae752973cc8535e6aac805fafcd7c2a4245a45e907df"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b28d1f093e7a07eb4987faf292ed05ed20fb043e"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "dfe1239f287604087e795003be17d5715625c9a24607b3e0e33a4ffceb21b1dc"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9e9d63f9aff870629cd16ec2c35fc8256210e6f0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "5fbf87fe20bd57ea4574de2d8cfc217f26ffa361fd371293d63f7b6d6f12bda0"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b1c683fb5081e17a7d316d3160ca10057f450618"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "f68445d8927c491752fd361ddd622860f11a7e587c0cf66e0ce11035b45fc5a1"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f6f7f46f86b99e8d2964e7bb02d13fed8dc829d0"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "79d7ce2f9c66e0b079d897119b0bbbb2ece4d091d72dcda6a81b0554989e1dc6"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7a0bf3be86821cdb4844f548fe52fb5cdedb1794"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "b81d2e0c12464d1d2562b6d03701116dd4d86211e290e2dadef093f41c4d7e0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b6b9c6719baef6160949d0e937eaa5093165f4dc"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d5c501a580b5a749a3c73db57a31f8374dff2df813c9464a5114a59410e55928"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bef6424a168c17e4e84c84d70a6006f873e1dcab"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "75b0ddccbe867bbc40c4963c25806171d4e09ef6bf20ac73943b210a219412fb"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d4ce80d72c3ec2d5c4df9ef33205b12b10c196f6"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "830c87c64c09a63abb5daed43744bac7e31973a20f0cd4e94f4c8838ceb1f0e9"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "47f2a910659ea9860d5f68bac97d46cfa600af89"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "6f42c719e16daf57be60784f10799281c71b420e292164fc88aec1d2dac8fd0b"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5f962b4678cc5399cf422c1524ddbf0e1bb79dcd"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "729872e58d5b51b8c369b2413fd5bb3bd41f147f43511e038123acb46b453c8f"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "59e66a79d914f7094f1d003b6f2b5fd8851c9374"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "07ac43bf25e000a9ba6bc738a7c7dd0e3d472e362b4a9306a07e87156d1e6ecd"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-musleabihf-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cd8a6bacd09aecefc121d5af48c26290c1a1fc7f"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "65d35071031b258c85105deb4383dc86d2269747c15fc16d2a070386ae84195d"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ef4cdb58996eb7bb2b94cbcd6eac3e5e41d9f4a0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "e66df3476194f7e29bfb8ab1b0ac0987ff2f9e8b166bfbeef64d260cc4ebba72"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "8e46c50ac5f7bd3c85de8ccf07a55e410e8aa668"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "69226f77798faa9215995f20473276e089ae789a9ba1469b06227942029dab93"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "2750a0e5c805c24864119a8c763beda197354b8e"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d56674adef1335879d117bb173bd3c4669cb832cca1560b0a23361ae8f904e4f"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-gnu-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "5aeb8817b9e305ea4ba1ccd6dedf6867ec2f47e3"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d0201d7a6576967ae1a7dff70bd9afe06aea6020f97cafe651740cf69852c0c9"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "3127687ed84a6cce586eb505f93dde1946c7565d"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "e7e597040dcf02797848cddc221f02cd5bb908825ecd119952fd38a3da9d6d3f"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "9a1cc3fb43fdb2dc2da8d80c239e7706e5b3fada"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "1d537d3d777737d4670c00809ea1396e8efae5e824ecd74ef787b31108ab19b3"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-musl-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "a41883defacd6d6b9a4c9979de3f6926c450c63e"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "29479bfb55ba2104a80eb6326ede825a61fc5d6b589989c3e9b9b25560b0d7f5"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-musl-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "68739fa851e4c6b4f0172a68eaaf07e110f981c4"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "be19c816c6487098bda4f0bfbea665a7cb266adec79e4f6e254461e9a2bd4c72"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-linux-musl-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "i686"
+git-tree-sha1 = "16a8f6bcbe2a03b5a9bc05824fcd43ed1c867941"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "427c2c7f0f7215fd2bc62e3be54f12d42c65e4a517b150388afd30c6b7e38982"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "powerpc64le"
+git-tree-sha1 = "2bc453d3257272518e974be4c3899e8168e7e082"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "e22651105afcdc4cf09a679187ec798e12576bcb18c146553ea77641fe993194"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.powerpc64le-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "powerpc64le"
+git-tree-sha1 = "a5c531e6c294c3bf5dfb10e9b4b7d3ae46e58044"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "21bf0948ed71b243ce8400ed9922104049c947135b64888925ca136303517cc6"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "powerpc64le"
+git-tree-sha1 = "58b010434246a79940e4c136d5f39250342b43ce"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "4afd33822d82f767e746368b928b892d1062b82c81b0db23f7599df9f01b28a9"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "powerpc64le"
+git-tree-sha1 = "7013f56332cc970583ea019fe7593b8d99e0d423"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "d4d5daba791f14828fadc36422800a31c193279f2cc3da4ff86384ab261cc10a"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "riscv64"
+git-tree-sha1 = "7ef439e771a98ce902a22fe6875fe975eec5aa24"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "9d0e2b7e204e1162df806abe864a170187d8a95c5a11f99badc9506b6c960b42"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.riscv64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "riscv64"
+git-tree-sha1 = "7ef439e771a98ce902a22fe6875fe975eec5aa24"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "9d0e2b7e204e1162df806abe864a170187d8a95c5a11f99badc9506b6c960b42"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "riscv64"
+git-tree-sha1 = "7ef439e771a98ce902a22fe6875fe975eec5aa24"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "9d0e2b7e204e1162df806abe864a170187d8a95c5a11f99badc9506b6c960b42"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "riscv64"
+git-tree-sha1 = "7ef439e771a98ce902a22fe6875fe975eec5aa24"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "9d0e2b7e204e1162df806abe864a170187d8a95c5a11f99badc9506b6c960b42"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "189ddf687b69eab13f1e47ac7430bdf3d9699c2f"
+mpi = "mpiabi"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "5ce50cb9c03cccb8ad8175d246bc0208bc4aaeefde5fc8fe26803b34ab765284"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-apple-darwin-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "189ddf687b69eab13f1e47ac7430bdf3d9699c2f"
+mpi = "mpich"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "5ce50cb9c03cccb8ad8175d246bc0208bc4aaeefde5fc8fe26803b34ab765284"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "189ddf687b69eab13f1e47ac7430bdf3d9699c2f"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "5ce50cb9c03cccb8ad8175d246bc0208bc4aaeefde5fc8fe26803b34ab765284"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "189ddf687b69eab13f1e47ac7430bdf3d9699c2f"
+mpi = "openmpi"
+os = "macos"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "5ce50cb9c03cccb8ad8175d246bc0208bc4aaeefde5fc8fe26803b34ab765284"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "a6da245826080429d0501a124e5dfc93124d2463"
+libc = "glibc"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "a0da75408d07c03d56f2263ec58b379f524d8e0f6bbf8e94557a78959514676f"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-gnu-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "07bbfe9497615ef14a8b0461628912e97de3dc57"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "4326eb64c63d33310e7a7a4fc7a4f547dd5c202fa0ea5d034deab66be0a9b725"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "63d472841526931172befca2fd379a156033c415"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "42b0a6ce6c33858d6ebfdee9558aed4405d0b8038708e8b5ba342f06ff8efbd5"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "f338f20cde9c79d26efe698a60359ae722dc4e93"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "32b452f054c5e201b9a1abccfa0ccbdc3b6e1684b2016584f757e44cc6e6e174"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "d41bb8a683e668df3726db265f15dc20ea407521"
+libc = "musl"
+mpi = "mpiabi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "2386812e6b0f78eb30f42eaf709a3fed7dbe7232c9980247ef13bf6eca286ff9"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-musl-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "7abc6b5497e98d63498e954cfd97bfa2db4004a5"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "39f64075043733120642e01df48f1bf0c267ae14fa09a8bc090bf88c4f53d727"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "c0fc49fb2fa361fd9dac9eb2e381cc041ecbdda2"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "f9b28d5e0c20500848a40a6d5ad4a743eefdf88492d7032c5eafabb392c78b37"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "8e67eec75f3deb262dc119e7b2c86bc9e3a7f5eb"
+mpi = "mpiabi"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "64d2f8a2e502632927396424d75db4cdb8453d326a4a2bb7142a15185422a0aa"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-unknown-freebsd-mpi+mpiabi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "8e67eec75f3deb262dc119e7b2c86bc9e3a7f5eb"
+mpi = "mpich"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "64d2f8a2e502632927396424d75db4cdb8453d326a4a2bb7142a15185422a0aa"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "8e67eec75f3deb262dc119e7b2c86bc9e3a7f5eb"
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "64d2f8a2e502632927396424d75db4cdb8453d326a4a2bb7142a15185422a0aa"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "8e67eec75f3deb262dc119e7b2c86bc9e3a7f5eb"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "64d2f8a2e502632927396424d75db4cdb8453d326a4a2bb7142a15185422a0aa"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[NCZhdf5filters]]
+arch = "x86_64"
+git-tree-sha1 = "544b9315d76e6f9abc4405cf84130dd2fb0c9420"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[NCZhdf5filters.download]]
+    sha256 = "6beb161c7dcd05e22cb6abe8ba56258101b28931771d7afdf835e196e661076b"
+    url = "https://github.com/JuliaBinaryWrappers/NCZhdf5filters_jll.jl/releases/download/NCZhdf5filters-v401.1000.100+0/NCZhdf5filters.v401.1000.100.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
